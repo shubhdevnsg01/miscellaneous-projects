@@ -1,0 +1,56 @@
+body{
+    background: url('pic.jpg.jpg');
+    background-size:cover;
+   background-repeat: no-repeat;
+
+}
+.h1{
+    font: linear-gradient(to left, red,violet,yellow );
+    text-align: center;
+}
+.h2{
+    text-align: center;
+    color: white;
+    font-size: 35px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.h2:hover{
+    color: tomato;
+}
+.legend{
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+
+}
+.div1{
+    box-shadow: 10px 10px 5px gold;
+    background-image: linear-gradient(to right,red,black );
+    max-width: 500px;
+    max-height: 500px;
+}
+.div2{
+max-width: 500px;
+height: 200px;
+border: 3px solid red;
+overflow: hidden;
+}
+.second{
+
+    width: 50px;
+    height: 70px;
+    overflow: hidden;
+    box-shadow: 10px 10px 5px gray;
+}
+.card{
+    width: 250px;
+    box-shadow: 0 4px 8px rgba(red, green, blue, alpha);
+}
+.content{
+    background-color: skyblue;
+    color: snow;
+    font-size: 35px;
+}
+.text{
+    font-size: 20px;
+}
